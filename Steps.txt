@@ -1,0 +1,10 @@
+- btn ---> process [visa card - paypal account]
+- save order 
+
+---------------------
+- Steps : 
+    - paypal ---> basic integerations ---> smart buttons
+    - create sandbox accounts [personal - bussiness] US
+    - create paypal app ---> django 
+    - add button to template 
+    - connect button with order function 
