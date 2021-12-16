@@ -9,3 +9,4 @@ Youtube Video :
 - Paypal Sandbox Accounts : https://developer.paypal.com/developer/accounts/
 - Paypal Create App : https://developer.paypal.com/developer/applications
 - Credit Card Generation : https://developer.paypal.com/developer/creditCardGenerator
+- Paypal Change Button Style : https://developer.paypal.com/demo/checkout/#/pattern/style
